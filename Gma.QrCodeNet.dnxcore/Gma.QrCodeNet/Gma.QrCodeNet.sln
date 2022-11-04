@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.329
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gma.QrCodeNet.Encoding", "Gma.QrCodeNet.Encoding\Gma.QrCodeNet.Encoding.csproj", "{01AD80D7-98C2-42A8-A6FD-01F284DBA1E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anh.Gma.QrCodeNet.Encoding", "Gma.QrCodeNet.Encoding\Anh.Gma.QrCodeNet.Encoding.csproj", "{01AD80D7-98C2-42A8-A6FD-01F284DBA1E0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gma.QrCodeNet.Encoding.Tests", "Gma.QrCodeNet.Encoding.Tests\Gma.QrCodeNet.Encoding.Tests.csproj", "{76A50B4D-F5F0-4C0C-A09B-0105B25F14A5}"
 EndProject

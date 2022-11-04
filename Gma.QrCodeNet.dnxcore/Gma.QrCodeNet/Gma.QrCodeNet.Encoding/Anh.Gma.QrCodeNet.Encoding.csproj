@@ -5,16 +5,15 @@
     <AssemblyTitle>QrCodeNet.dnxcore</AssemblyTitle>
     <VersionPrefix>1.0.1</VersionPrefix>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>Gma.QrCodeNet.Encoding</AssemblyName>
-    <PackageId>QrCode.Net.Core</PackageId>
+    <AssemblyName>Anh.Gma.QrCodeNet.Encoding</AssemblyName>
+    <PackageId>Anh.Gma.QrCodeNet.Encoding</PackageId>
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
     <PackageReleaseNotes>Update .NetStandard Version to 2.0 and fix bug</PackageReleaseNotes>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>0.4.0</Version>
-    <Authors>lianggx</Authors>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.4.1</Version>
+    <Authors>anh</Authors>
     <ProjectUrl>https://github.com/lianggx/QrCode.Net</ProjectUrl>
     <RepositoryUrl>https://github.com/lianggx/QrCode.Net</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
